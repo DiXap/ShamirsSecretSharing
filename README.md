@@ -182,7 +182,7 @@ $ python -m pytest -v
 
 # Documentation
 
-All documentation was generated using `pydoc`. You'll find it inside `docs`.  
+All documentation was generated using `pdoc`. You'll find it inside `docs`.  
 I personaly recommend switching to `docs/` and then starting a local server to visualize them:
 ```shell
 $ python -m http.server
