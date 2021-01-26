@@ -1,7 +1,7 @@
 
+# Third-party library imports
 import pytest
 from unittest import TestCase
-# Third-party library imports
 from Crypto.Hash import SHA3_256
 
 # Local library imports
